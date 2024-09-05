@@ -1,7 +1,6 @@
 # Trend Micro University Capture The Flag 2024
 
 ## Challenges Solved:
-
 ## PRELIMINARIES
 
 ### Forensics
