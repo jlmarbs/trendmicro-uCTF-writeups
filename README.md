@@ -5,15 +5,15 @@
 ## PRELIMINARIES
 
 ### Forensics
-- Hidden Payload
-- Tracing The Trail
+- [Hidden Payload](Preliminaries/Forensics/HiddenPayload.md)
+- [Tracing The Trail](Preliminaries/Forensics/TracingTheTrail.md)
 
 ### Cryptography
-- Breaking The Seal
-- Cryptic Sound
+- [Breaking The Seal](Preliminaries/Cryptography/BreakingTheSeal.md)
+- [Cryptic Sound](Preliminaries/Cryptography/CrypticSound.md)
 
 ### Reversing
-- Magic Key
+- [Magic Key](Preliminaries/Reversing/MagicKey.md)
 
 ## FINALS
 
