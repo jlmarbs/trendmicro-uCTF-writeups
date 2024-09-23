@@ -19,7 +19,7 @@
 
 ### Forensics
 - [Blank File 1](Finals/Forensics/BlankFile1.md)
-- Packet Snatcher
+- [Packet Snatcher](Finals/Forensics/PacketSnatcher.md)
 - Untangled
 
 ### Reversing
