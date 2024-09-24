@@ -18,7 +18,7 @@
 ### Forensics
 - [Blank File 1](Finals/Forensics/BlankFile1.md)
 - [Packet Snatcher](Finals/Forensics/PacketSnatcher.md)
-- Untangled
+- [Untangled](Finals/Forensics/Untangled.md)
 
 ### Reversing
 - Mystery GUI
